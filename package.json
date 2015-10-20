@@ -1,0 +1,19 @@
+{
+  "name": "gapyeartest",
+  "version": "1.0.0",
+  "description": "gapyear test",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://git.heroku.com/gapyeartest.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
